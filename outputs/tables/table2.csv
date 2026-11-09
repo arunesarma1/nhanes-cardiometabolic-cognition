@@ -1,0 +1,5 @@
+"Model","N","Beta (95% CI)","p-value"
+"Unadjusted",2804,"-2.56 (-3.62, -1.50)","<0.001"
+"Demographic-adjusted",2804,"-1.18 (-1.94, -0.41)","0.004"
+"Demographic-adjusted (income-complete sample)",2577,"-1.16 (-1.96, -0.36)","0.007"
+"Demographic + income-adjusted",2577,"-1.02 (-1.76, -0.28)","0.010"
