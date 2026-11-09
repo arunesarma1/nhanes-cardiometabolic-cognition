@@ -88,7 +88,7 @@ The overall survey-weighted mean DSST score was 52.32 points (SE 0.56) (Table 1)
 
 Survey-weighted linear regression estimates for the association between cardiometabolic risk-factor burden and DSST performance were assessed (Table 2, Figure 2). In the unadjusted model (n = 2,804), each additional risk factor was associated with a 2.56-point lower DSST score (β = -2.56; 95% CI: -3.62 to -1.50; p < 0.001). Following adjustment for age, sex, race/ethnicity, and educational attainment, the estimated association was reduced to -1.18 points per additional risk factor (95% CI: -1.94 to -0.41; p = 0.004), representing a 54.0% attenuation in coefficient magnitude.
 
-![Survey-weighted regression coefficients](figures/figure2_regression_coefficients.png)
+![Survey-weighted regression coefficients](outputs/figures/figure2_regression_coefficients.png)
 
 To examine the contribution of income adjustment, the demographic-adjusted model was first repeated among the 2,577 participants with available family PIR data. The resulting coefficient was -1.16 (95% CI: -1.96 to -0.36; p = 0.007), compared with -1.18 in the full analytical sample. Within this income-complete sample, further adjustment for PIR yielded a coefficient of -1.02 (95% CI: -1.76 to -0.28; p = 0.010), corresponding to a 12.2% reduction in coefficient magnitude relative to the demographic-adjusted estimate in the same participants.
 
