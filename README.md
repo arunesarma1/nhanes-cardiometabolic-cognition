@@ -82,7 +82,7 @@ The overall mean family PIR was 3.12 (SE 0.07) (Table 1). Mean PIR values decrea
 
 The overall survey-weighted mean DSST score was 52.32 points (SE 0.56) (Table 1). Cognitive performance measured by DSST score decreased with increasing cardiometabolic burden (Figure 1). Participants with zero risk factors had a mean DSST score of 58.63 points (SE 1.47), those with one risk factor had a mean DSST score of 54.45 (SE 0.90), those with two had a mean DSST score of 51.92 (SE 0.88), those with three had a mean DSST score of 50.33 (SE 1.10), and those with four cardiometabolic risk factors had a mean DSST score of 47.06 (SE 1.39) (Figure 1). The difference between the unadjusted weighted means for participants with zero and four risk factors was 11.57 DSST points.
 
-![Cognitive performance by cardiometabolic risk-factor burden](putputs/figures/figure1_dsst_by_burden.png)
+![Cognitive performance by cardiometabolic risk-factor burden](outputs/figures/figure1_dsst_by_burden.png)
 
 ### Association Between Cardiometabolic Burden and Cognitive Performance
 
